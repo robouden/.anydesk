@@ -1,0 +1,6 @@
+# Ignore everything by default - this directory contains sensitive data
+*
+
+# Allow only the custom CSS and gitignore
+!.gitignore
+!custom.css
